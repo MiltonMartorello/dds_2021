@@ -1,0 +1,5 @@
+package prendas;
+
+public enum Tipo {
+  SACO, CAMISA, PANTALON, REMERA, GORRO, SOMBRERO, ZAPATOS, ANTEOJOS, ZAPATILLAS
+}
